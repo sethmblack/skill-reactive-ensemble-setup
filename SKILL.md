@@ -3,7 +3,7 @@ name: reactive-ensemble-setup
 description: Structure multi-voice content where one central character reacts to others' zingers rather than delivering jokes themselves—the reaction becomes the comedy.
 license: MIT
 metadata:
-  version: 1.0.4800
+  version: 1.0.4801
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
